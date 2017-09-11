@@ -1,0 +1,13 @@
+bin\Debug\FoxArp.exe
+bin\Debug\FoxArp.pdb
+bin\Debug\Tamir.IPLib.SharpPcap.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FoxArp.Properties.Resources.resources
+obj\Debug\FoxArp.csproj.GenerateResource.Cache
+obj\Debug\FoxArp.exe
+obj\Debug\FoxArp.pdb
+obj\Debug\FoxArp.copyright.resources
+bin\Debug\ActivityHook.dll
+bin\Debug\Lib\ActivityHook.dll
+obj\Debug\FoxArp.WinForm.resources
+bin\Debug\WindowsControlLibrary.dll
